@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DocFileName" Type="System.String" Scope="User">
-      <Value Profile="(Default)">1031_301.doc</Value>
+      <Value Profile="(Default)">1031_301.docx</Value>
     </Setting>
   </Settings>
 </SettingsFile>

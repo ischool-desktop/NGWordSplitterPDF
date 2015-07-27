@@ -25,7 +25,7 @@ namespace NGWordSplitter.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("1031_301.doc")]
+        [global::System.Configuration.DefaultSettingValueAttribute("1031_301.docx")]
         public string DocFileName {
             get {
                 return ((string)(this["DocFileName"]));

@@ -26,7 +26,7 @@ namespace NGWordSplitter
         public static string GenerateFileName(string idNumber, string typeCode)
         {
             //2014 1 00 J129999999 01
-            return string.Format("20141{0}{1}01", typeCode, idNumber.ToUpper());
+            return string.Format("20151{0}{1}01", typeCode, idNumber.ToUpper());
         }
     }
 
